@@ -1,6 +1,6 @@
 # ==============================================================================
 # SAGA DE REPOSITORIOS PYTHON 2026
-# Repositorio: 2026_10_P03_R02_planificador-capacitaciones
+# Repositorio: 2026_11_P03_R02_planificador-capacitaciones
 # Principio 3: Funciones, parámetros y alcance de variables (Nivel: Consolidación)
 # ==============================================================================
 

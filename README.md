@@ -47,7 +47,7 @@ Consolidar el **Principio 3: Funciones, parámetros y alcance de variables**:
 ## Estructura del repositorio
 
 ```text
-2026_10_P03_R02_planificador-capacitaciones/
+2026_11_P03_R02_planificador-capacitaciones/
 ├── .gitignore
 ├── main.py
 └── README.md
